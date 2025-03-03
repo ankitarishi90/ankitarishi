@@ -1,4 +1,4 @@
 # ankitarishi
 This is my first repository.
 <br>
-Author-Ankita Rishi
+Author-Ankita Rishi (repsitory)
